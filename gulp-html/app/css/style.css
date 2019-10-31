@@ -1,0 +1,2 @@
+body .main{display:grid;background:#fff;grid-gap:2px;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}body .main .place{background:orange;font-size:10px;padding:12px 12px 12px 12px}body .status{position:absolute;left:200px;top:50px}body .reset{position:absolute;left:200px;top:200px}body .replay{position:absolute;left:200px;top:150px}body .score{position:absolute;left:200px;top:100px}
+/*# sourceMappingURL=style.css.map */

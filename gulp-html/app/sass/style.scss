@@ -1,0 +1,47 @@
+    body{
+        
+        .main{
+            display: grid;
+            
+            background: #fff;
+            grid-gap: 2px;
+            justify-content: center;
+            .place{
+                background: orange;
+                
+                font-size: 10px;
+                padding:12px 12px 12px 12px;
+            }
+            
+        }
+         
+        .status{
+            position: absolute;
+            left: 200px;
+            top:50px; 
+        }
+
+        .reset{
+            position: absolute;
+            left: 200px;
+            top:200px;
+        }
+
+        .replay{
+          position: absolute;
+          left: 200px;
+          top:150px;
+         }
+
+       .score{
+        position: absolute;
+        left: 200px;
+        top:100px;
+         
+         }
+     
+
+    }
+
+
+ 
